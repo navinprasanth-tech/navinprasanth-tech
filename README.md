@@ -66,6 +66,16 @@ A predictive maintenance and diagnostics project focused on analyzing machine se
 - Improving SQL, database management, and data processing
 - Learning to build, evaluate, and deploy AI applications
 - Developing clean, documented, and reproducible projects
+- ## 🌱 Currently Learning
+
+- 📊 **Data Science:** Data preprocessing, exploratory data analysis, and feature engineering
+- 🤖 **Machine Learning:** Model training, classification, regression, and evaluation
+- 🧠 **Deep Learning:** Neural networks and CNN fundamentals
+- 🐍 **Python:** Writing clean, reusable code for AI applications
+- 🗄️ **SQL & DBMS:** Database design and query optimization
+- 🔧 **Developer Tools:** Git, GitHub, virtual environments, and project management
+
+
 
 ---
 
