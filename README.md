@@ -24,7 +24,7 @@ I believe in learning by building — turning concepts into projects, solving re
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🤖 AI, Machine Learning & Data Science
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-Learning-2E8B57?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-2E8B57?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learining-8A2BE2?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
