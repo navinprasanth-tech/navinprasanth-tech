@@ -1,3 +1,10 @@
+
+<p align="center">
+  <a href="https://github.com/navinprasanth-tech">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=650&height=60&lines=AI+%26+Data+Science+Student;Machine+Learning+%26+Deep+Learning+Enthusiast;Building+AI+Projects;Learning+by+Building" alt="Typing SVG" />
+  </a>
+</p>
+
 # 👋 Hi, I'm Navin Prasanth M
 
 ### AI & Data Science Student | Aspiring AI Engineer
