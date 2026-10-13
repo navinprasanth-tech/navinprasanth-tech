@@ -66,6 +66,10 @@ Working with sensor data and machine learning concepts for machinery fault ident
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=navinprasanth-tech&show_icons=true&theme=dark&hide_border=true)
+
 ## 🤝 Connect With Me
 
 - GitHub: [navinprasanth-tech](https://github.com/navinprasanth-tech)
