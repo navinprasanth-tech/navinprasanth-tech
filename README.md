@@ -43,19 +43,97 @@ I believe in learning by building — turning concepts into projects, solving re
 
 
 
-## 🚀 Projects
+## 🚀 Projects & Development
+
+### 🌍 AI-Powered Natural Disaster Response Coordinator
+An AI-driven disaster response system designed to process incoming disaster-related information, identify critical incidents, assess severity and priority, and help surface the most important information for response teams.
+
+**Key Objectives**
+- 📥 Collect and process disaster-related information from available sources.
+- 🧠 Use AI models to analyze incoming reports and extract relevant details.
+- 🚨 Assess incident severity and response priority.
+- 📊 Organize and prioritize critical information to support faster decision-making.
+- 📢 Share important alerts and summaries with relevant response teams.
+
+**Focus Areas:** Artificial Intelligence, Natural Language Processing, Information Classification, Severity Assessment, Priority Ranking, and Decision Support.
+
+**Status:** 🚧 In Development
+
+*Designed to support human decision-making, not replace emergency services or official disaster-response authorities.*
+
+---
+
+### 🧠 Deep Learning Mini-Projects
+Currently developing small Deep Learning projects to strengthen my understanding of neural networks and practical AI workflows.
+
+**Areas of Exploration**
+- 🔢 Artificial Neural Networks (ANN)
+- 🖼️ Convolutional Neural Networks (CNN)
+- 🧹 Data preprocessing and exploratory data analysis
+- ⚙️ Model training, validation, and evaluation
+- 📈 Performance visualization and experimentation
+
+**Focus Areas:** Python, Deep Learning, TensorFlow/Keras, and Google Colab.
+
+**Status:** 🌱 Ongoing Learning & Development
+
+---
+
+## 🚀 Projects & Development
+
+### 🌍 AI-Powered Natural Disaster Response Coordinator
+An AI-driven disaster response system designed to process incoming disaster-related information, identify critical incidents, assess severity and priority, and help surface the most important information for response teams.
+
+**Key Objectives**
+- 📥 Collect and process disaster-related information from available sources.
+- 🧠 Use AI models to analyze incoming reports and extract relevant details.
+- 🚨 Assess incident severity and response priority.
+- 📊 Organize and prioritize critical information to support faster decision-making.
+- 📢 Share important alerts and summaries with relevant response teams.
+
+**Focus Areas:** Artificial Intelligence, Natural Language Processing, Information Classification, Severity Assessment, Priority Ranking, and Decision Support.
+
+**Status:** 🚧 In Development
+
+*Designed to support human decision-making, not replace emergency services or official disaster-response authorities.*
+
+---
+
+### 🧠 Deep Learning Mini-Projects
+Currently developing small Deep Learning projects to strengthen my understanding of neural networks and practical AI workflows.
+
+**Areas of Exploration**
+- 🔢 Artificial Neural Networks (ANN)
+- 🖼️ Convolutional Neural Networks (CNN)
+- 🧹 Data preprocessing and exploratory data analysis
+- ⚙️ Model training, validation, and evaluation
+- 📈 Performance visualization and experimentation
+
+**Focus Areas:** Python, Deep Learning, TensorFlow/Keras, and Google Colab.
+
+**Status:** 🌱 Ongoing Learning & Development
+
+---
 
 ### 🛡️ ContextGuard — Sensitive Data Detection
 A browser extension focused on detecting sensitive information and assessing potential data exposure risks.
 
-**Areas:** JavaScript, browser extensions, sensitive data detection, risk assessment.
+**Focus Areas:** JavaScript, Browser Extensions, Sensitive Data Detection, and Risk Assessment.
+
+**Status:** Update this status to reflect the actual implementation.
+
+---
 
 ### ⚙️ Rotating Machinery Predictive Maintenance
-A predictive maintenance and diagnostics project focused on analyzing machine sensor data to identify faults and estimate remaining useful life.
+A predictive maintenance and diagnostics project focused on using machinery sensor data for fault identification and remaining useful life estimation.
 
-**Areas:** Python, sensor data processing, feature engineering, Machine Learning.
+**Focus Areas:** Python, Sensor Data Processing, Feature Engineering, Machine Learning, and Predictive Analytics.
 
-> Project descriptions and technology lists should reflect the actual implementation. I'll add repository links, screenshots, and evaluation results once we review your project repositories.
+**Status:** Update this status to reflect the actual implementation.
+
+---
+
+*More projects and experiments will be added as I continue learning, building, and improving my AI engineering skills.*
 
 ---
 
